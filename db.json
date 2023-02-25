@@ -1,0 +1,94 @@
+{
+  "admin": [
+    {
+      "name": "raj",
+      "password": "abc@123",
+      "email": "raj@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "joni",
+      "password": "abc@123",
+      "email": "jon@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "banro",
+      "password": "abc@123",
+      "email": "banro@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "dop",
+      "password": "abc@123",
+      "email": "dop@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "wow",
+      "password": "abc@123",
+      "email": "wow@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "wuw",
+      "password": "abc@123",
+      "email": "wuw@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "ram",
+      "password": "abc@123",
+      "email": "ram@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "ban",
+      "password": "abc@123",
+      "email": "ban@gmail.com",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "name": "Asian Crystal",
+      "price": "7500",
+      "productcategory": "Sports shoe",
+      "productdescript": "Shoe for gyming and sporting",
+      "productURL": "https://m.media-amazon.com/images/I/51qMYJEfdVL._UY500_.jpg",
+      "id": 6
+    },
+    {
+      "name": "Sparx",
+      "price": "600",
+      "productcategory": "Casual",
+      "productdescript": "Stylish and comfy",
+      "productURL": "data:image/jpeg;base64,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",
+      "id": 7
+    },
+    {
+      "name": "Bata",
+      "price": "1700",
+      "productcategory": "Leather shoe",
+      "productdescript": "Black real leather",
+      "productURL": "https://media.istockphoto.com/id/172417586/photo/elegant-black-leather-shoes.jpg?s=612x612&w=0&k=20&c=c_tTljwbu2m0AGxwb27NxCgG0Y2Cv-C4v8q6V36RYbw=",
+      "id": 8
+    },
+    {
+      "name": "Puma",
+      "price": "2300",
+      "productcategory": "Sneakers",
+      "productdescript": "White shiny and stylish",
+      "productURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT-JBC0JSxMY_59vqgK9AHA17VnWR8dBcPSA&usqp=CAU",
+      "id": 9
+    },
+    {
+      "name": "Liberty",
+      "price": "650",
+      "productcategory": "Synthetic ",
+      "productdescript": "Boys and Girls school shoes",
+      "productURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIGSCRJRsENmm7JHzwokbH5EBhw8u1gyakzw&usqp=CAU",
+      "id": 10
+    }
+  ]
+}
